@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "superadmin",
+    "password": "superadmin",
+    "database": "car_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorAliases": false,
+    "logging": false
+  },
+  "test": {
+    "username": "superadmin",
+    "password": "superadmin",
+    "database": "car_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorAliases": false,
+    "logging": false
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

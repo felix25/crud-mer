@@ -1,0 +1,5 @@
+2020-09-15T05:49:16.318Z [error]: Error ocurrio al buscar un cliente por email al registrase res.sttatus is not a function
+2020-09-15T05:52:44.577Z [error]: Error ocurrio al buscar un cliente por email al registrase err TypeError: res.sttatus is not a function res.sttatus is not a function
+2020-09-16T05:52:55.723Z [error]: Error ocurrio al buscar un cliente por email al registrase err Error: WHERE parameter "email" has invalid "undefined" value WHERE parameter "email" has invalid "undefined" value
+2020-09-16T07:11:06.125Z [error]: Error ocurrio al tratar de buscar un cliente color is not defined
+2020-09-16T07:35:42.366Z [error]: Ocurrio un error al registrar la reparacion SequelizeDatabaseError: invalid input syntax for type timestamp with time zone: "Invalid date"
